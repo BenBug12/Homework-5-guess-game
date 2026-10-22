@@ -1,0 +1,14 @@
+GUESS THE NUMBER!
+----------------------------------
+Guess a number between 1 and 10.
+You have 3 attempts!
+
+Please enter a valid whole number.
+A guess is required.
+A guess is required.
+A guess is required.
+Too low
+Too low
+Congratulations, you guessed correctly
+
+ thanks for playing
